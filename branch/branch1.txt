@@ -1,1 +1,2 @@
 1) ive created a new branch called feature 
+2) ive moved back to main and merged then im back again and gonna do the same
